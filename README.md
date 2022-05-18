@@ -31,5 +31,5 @@ Hi, I'm **Bang** (_@nabang1010_), a student at Hanoi University of Science and T
 
 ## <img height="247" src="https://github.com/nab1010/nab1010/blob/d05b1aaa45506e20ff2bcd2018610ec0e59ba08f/assets/naruto.gif"/>
 
-![nabang1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabang1010&show_icons=true&theme=radical)
+![nabang1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabang1010&show_icons=true)
 
