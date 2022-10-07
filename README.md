@@ -17,6 +17,7 @@ Hi, I'm **Bang** (_@nabang1010_), a student at Hanoi University of Science and T
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=08417b&color=gray)
 ![](https://img.shields.io/badge/TensorRT-informational?style=flat&logo=NVIDIA&&logoColor=6eae1a&color=gray)
 ![](https://img.shields.io/badge/OpenCV-informational?style=flat&logo=OpenCV&&logoColor=f20001&color=gray)
+![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=PyTorch&&logoColor=e9891f&color=gray)
 ![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&&logoColor=e9891f&color=gray)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=d84924&color=gray)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=3f86cf&color=gray)
