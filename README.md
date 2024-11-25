@@ -34,6 +34,6 @@ Hi, I'm **Bang** (_@nabang1010_), a student at Hanoi University of Science and T
 
 <!-- ![nabang1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabang1010&show_icons=true) -->
 
-![nabang1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabang1010&layout=compact&show_icons=true&theme=highcontrast&card_width=700px)
+![nabang1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabang1010&layout=compact&show_icons=true&theme=highcontrast&card_width=500px)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabang1010&layout=compact&theme=highcontrast&show_icons=true&card_width=700px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabang1010&layout=compact&theme=highcontrast&show_icons=true&card_width=500px)
