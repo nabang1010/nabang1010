@@ -35,3 +35,4 @@ Hi, I'm **Bang** (_@nabang1010_), a student at Hanoi University of Science and T
 <!-- ![nabang1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabang1010&show_icons=true) -->
 
 ![nabang1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabang1010&show_icons=true&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabang1010&layout=compact&theme=shadow_red)
