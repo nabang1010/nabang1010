@@ -2,7 +2,7 @@
 # Wellcome to my Github
 ![](https://visitor-badge.glitch.me/badge?page_id=nabang1010&left_color=gray&right_color=purple)
 
-Hi, I'm **Bang** (_@nabang1010_), a student at Hanoi University of Science and Technology ([**HUST**](https://www.hust.edu.vn/)). I am a researcher at Smart Application And Network System Laboratory ([**SANSlab**](https://sanslab.vn/)) - School of Electronics and Telecommunications ([**SET**](http://set.hust.edu.vn/)). My research interests are in Machine Learning, Deep Learning and Computer Vision.
+Hi, I'm **Bang** (_@nabang1010_).
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nabblog.me/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabang1010/)
