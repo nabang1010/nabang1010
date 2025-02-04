@@ -37,3 +37,5 @@ Hi, I'm **Bang** (_@nabang1010_).
 ![nabang1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabang1010&layout=compact&show_icons=true&theme=highcontrast&card_width=500px)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabang1010&layout=compact&theme=highcontrast&show_icons=true&card_width=500px)
+
+![nabang1010's GitHub trophy](https://github-profile-trophy.vercel.app/?username=nabang1010&theme=darkhub&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)
